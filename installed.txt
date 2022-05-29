@@ -1,0 +1,4 @@
+com.tabnine.TabNine
+com.vermouthx.xcode-theme
+net.antelle.intellij-xcode-dark-theme
+org.intellij.plugins.markdown
